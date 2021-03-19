@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MiXaiLL76
+- I am engaged in computer vision and adjacent points
+- I will be glad to meet you
+- I hope that my developments will help you)
