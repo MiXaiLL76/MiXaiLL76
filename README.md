@@ -7,3 +7,6 @@ Data Science CV/TL – @RedMadRobot
 > Working with computer vision  
 > I will be glad to meet you  
 > I hope that my developments will help you)  
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=mixaill76&count_private=true&show_icons=true&theme=tokyonight&layout=compact" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixaill76&theme=tokyonight&layout=compact" height="150">
